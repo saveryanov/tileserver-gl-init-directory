@@ -8,6 +8,8 @@ Map data is stored in **data** directory in **mbtiles** format. This file was cr
 
 Map style is stored in **styles** directory. It was created with [Maputnik online editor](http://editor.openmaptiles.org) and based on the "OSM Bright" default style. However some features have been slightly changed: icons are now stored localy and now you can see housenumbers on the map.
 
+This is just example of tileserver-gl usage. You can change it as you wish. Hope it helps.
+
 ## Run ##
 
 Clone this repository:
